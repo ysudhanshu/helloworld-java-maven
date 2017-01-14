@@ -34,14 +34,14 @@
   <distributionManagement>
   <repository>
   <id>deployment</id>
-  <name>Internal Releases1</name>
-  <url>http://54.171.140.167:8081/nexus/content/repositories/releases/</url>
+  <name>sud1-Rel</name>
+  <url>http://54.171.181.49:8083/nexus/content/repositories/sud1-Rel/</url>
   </repository>
  
   <snapshotRepository>
 <id>deployment</id>
-<name>Internal Releases</name>
-<url>http://54.171.140.167:8081/nexus/content/repositories/snapshots/</url>
+<name>sud2-snap</name>
+<url>http://54.171.181.49:8083/nexus/content/repositories/sud2-snap/</url>
 </snapshotRepository>
 </distributionManagement>
 
